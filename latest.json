@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.1.0/Lumina-Setup-0.1.0.exe",
-  "notes": "Тестовая публикация — первая версия апдейтера"
+  "version": "0.2.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.2.0/Lumina-Setup-0.2.0.exe",
+  "notes": "^Редизайн^ приложения:^ боковая^ панель^ навигации^ вместо^ хедера,^ страницы^ Проект/Сценарий/Конвейер/Проекты,^ настройки^ голоса/музыки/субтитров/картинок^ теперь^ карточками^ на^ странице^ проекта.^ Плюс^ автообновление^ приложения.^"
 }
