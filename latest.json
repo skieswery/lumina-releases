@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.4/Lumina-Setup-0.3.4.exe",
-  "notes": "Автоматическая публикация обновления."
+  "version": "0.3.5",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.5/Lumina-Setup-0.3.5.exe",
+  "notes": "Новая плашка обновлений прямо в приложении. Выбор нескольких кадров и перегенерация. Номер кадра в углу видео. Исправлен вылет при экспорте."
 }
