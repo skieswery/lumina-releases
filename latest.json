@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.1/Lumina-Setup-0.3.1.exe",
-  "notes": "Фикс: HWID теперь берётся из стабильного Windows Machine GUID вместо нестабильного браузерного отпечатка (раньше ключ мог слетать при каждом перезапуске). Админка: карточка ключа теперь показывает реальный обратный отсчёт дней до истечения вместо статичной метки тарифа."
+  "version": "0.3.2",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.2/Lumina-Setup-0.3.2.exe",
+  "notes": "Автоматическая публикация обновления."
 }
