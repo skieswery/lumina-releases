@@ -1,5 +1,5 @@
 {
-  "version": "0.3.5",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.5/Lumina-Setup-0.3.5.exe",
-  "notes": "Новая плашка обновлений прямо в приложении. Выбор нескольких кадров и перегенерация. Номер кадра в углу видео. Исправлен вылет при экспорте."
+  "version": "0.3.6",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.6/Lumina-Setup-0.3.6.exe",
+  "notes": "Рендер теперь идёт в фоне: окно экспорта можно закрыть, прогресс виден на кнопке Экспорт. Готовое видео не пропадает при повторном открытии, есть кнопка Собрать заново."
 }
