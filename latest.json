@@ -1,5 +1,5 @@
 {
-  "version": "0.3.6",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.6/Lumina-Setup-0.3.6.exe",
-  "notes": "Рендер теперь идёт в фоне: окно экспорта можно закрыть, прогресс виден на кнопке Экспорт. Готовое видео не пропадает при повторном открытии, есть кнопка Собрать заново."
+  "version": "0.3.7",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.7/Lumina-Setup-0.3.7.exe",
+  "notes": "Обновления теперь ставятся тихо, как в Telegram: скачалось, установилось, Lumina перезапустилась сама."
 }
