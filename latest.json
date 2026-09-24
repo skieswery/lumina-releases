@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.4/Lumina-Setup-0.4.4.exe",
-  "notes": "Lumi через шлюз тратит меньше: у модели включён низкий уровень размышлений (их токены шлюз списывает как самые дорогие)."
+  "version": "0.4.5",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.5/Lumina-Setup-0.4.5.exe",
+  "notes": "Разбор проекта: Lumi читает весь ролик одним запросом, отмечает слабые кадры на таймлайне (красные и жёлтые точки) и предлагает готовые правки текста и промпта. Можно применить по одной или все сразу."
 }
