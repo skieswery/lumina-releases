@@ -1,5 +1,5 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.7/Lumina-Setup-0.3.7.exe",
-  "notes": "Обновления теперь ставятся тихо, как в Telegram: скачалось, установилось, Lumina перезапустилась сама."
+  "version": "0.3.8",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.3.8/Lumina-Setup-0.3.8.exe",
+  "notes": "Мои экспорты: в окне экспорта теперь список всех собранных видео с фильтром 16:9 и 9:16. Открыть, показать в папке, сохранить копию, удалить."
 }
