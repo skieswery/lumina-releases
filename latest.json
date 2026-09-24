@@ -1,5 +1,5 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.5/Lumina-Setup-0.4.5.exe",
-  "notes": "Разбор проекта: Lumi читает весь ролик одним запросом, отмечает слабые кадры на таймлайне (красные и жёлтые точки) и предлагает готовые правки текста и промпта. Можно применить по одной или все сразу."
+  "version": "0.4.6",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.6/Lumina-Setup-0.4.6.exe",
+  "notes": "Конвейер переделан: простая форма, персонажи из библиотеки, живой прогресс с кадрами, кнопка «Остановить» работает"
 }
