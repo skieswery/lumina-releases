@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.3/Lumina-Setup-0.4.3.exe",
-  "notes": "Подключение своего шлюза Gemini API (ключ, купленный через посредника): Настройки - API-ключи - Адрес шлюза. Lumi пишет сценарии на сильной модели и без обрезки длинных роликов. Убран словарь произношения."
+  "version": "0.4.4",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.4/Lumina-Setup-0.4.4.exe",
+  "notes": "Lumi через шлюз тратит меньше: у модели включён низкий уровень размышлений (их токены шлюз списывает как самые дорогие)."
 }
