@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.2/Lumina-Setup-0.4.2.exe",
-  "notes": "Словарь произношения в окне Озвучка: исправляй ударения (бр+окколи) и чтение слов (YouTube - ютуб) один раз для всех роликов."
+  "version": "0.4.3",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.3/Lumina-Setup-0.4.3.exe",
+  "notes": "Подключение своего шлюза Gemini API (ключ, купленный через посредника): Настройки - API-ключи - Адрес шлюза. Lumi пишет сценарии на сильной модели и без обрезки длинных роликов. Убран словарь произношения."
 }
