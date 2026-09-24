@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.1/Lumina-Setup-0.4.1.exe",
-  "notes": "Новые голоса озвучки. Русские: Брайан, Эндрю, Флориан, Уильям, Эмма. Английские: Roger, Aria, Ryan и Sonia (британские), William и Natasha (австралийские), Connor (ирландский)."
+  "version": "0.4.2",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.2/Lumina-Setup-0.4.2.exe",
+  "notes": "Словарь произношения в окне Озвучка: исправляй ударения (бр+окколи) и чтение слов (YouTube - ютуб) один раз для всех роликов."
 }
