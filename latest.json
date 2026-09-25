@@ -1,5 +1,5 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.7/Lumina-Setup-0.4.7.exe",
-  "notes": "Конвейер: «Дорисовать упавшие», форма не сбрасывается, голос под язык ролика. Внутренняя чистка и тесты"
+  "version": "0.4.8",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.8/Lumina-Setup-0.4.8.exe",
+  "notes": "v0.4.8 — новый Конвейер: пишет по мастер-промпту Lumi, паспорт стиля, персонажи в кадре, генерация в несколько потоков, «дорисовать упавшие», уведомления и выключение ПК после очереди"
 }
