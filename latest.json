@@ -1,5 +1,5 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.6/Lumina-Setup-0.4.6.exe",
-  "notes": "Конвейер переделан: простая форма, персонажи из библиотеки, живой прогресс с кадрами, кнопка «Остановить» работает"
+  "version": "0.4.7",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.7/Lumina-Setup-0.4.7.exe",
+  "notes": "Конвейер: «Дорисовать упавшие», форма не сбрасывается, голос под язык ролика. Внутренняя чистка и тесты"
 }
