@@ -1,5 +1,5 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.4.9/Lumina-Setup-0.4.9.exe",
-  "notes": "v0.4.9 — защита кода (шифровка серверной логики, убрана утечка исходников) и починка заморозки/блокировки ключа: теперь админ-действия доходят до уже запущенного приложения"
+  "version": "0.5.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.0/Lumina-Setup-0.5.0.exe",
+  "notes": "v0.5.0 — номер версии теперь виден в углу сайдбара"
 }
