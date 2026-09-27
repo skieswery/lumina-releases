@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.0/Lumina-Setup-0.5.0.exe",
-  "notes": "v0.5.0 — номер версии теперь виден в углу сайдбара"
+  "version": "0.5.1",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.1/Lumina-Setup-0.5.1.exe",
+  "notes": "v0.5.1 — фоновые улучшения надёжности: мониторинг ошибок, защита админки от перебора, возможность быстрого отката обновлений"
 }
