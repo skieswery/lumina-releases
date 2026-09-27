@@ -1,5 +1,5 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.1/Lumina-Setup-0.5.1.exe",
-  "notes": "v0.5.1 — фоновые улучшения надёжности: мониторинг ошибок, защита админки от перебора, возможность быстрого отката обновлений"
+  "version": "0.5.2",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.2/Lumina-Setup-0.5.2.exe",
+  "notes": "v0.5.2 — Общая генерация: число в поле теперь значит «первые N кадров» (10 = 10 кадров), а не один кадр №10"
 }
