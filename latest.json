@@ -1,5 +1,5 @@
 {
-  "version": "0.5.3",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.3/Lumina-Setup-0.5.3.exe",
-  "notes": "v0.5.3 — внутренние улучшения надёжности: тесты, авто-проверка сборки, чистка кода. Функции без изменений"
+  "version": "0.5.4",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.5.4/Lumina-Setup-0.5.4.exe",
+  "notes": "v0.5.4 — надёжная установка обновлений: повтор при блокировке файла антивирусом (лечит ошибку spawn EBUSY)"
 }
