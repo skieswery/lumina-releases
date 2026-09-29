@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.6.0/Lumina-Setup-0.6.0.exe",
-  "notes": "v0.6.0 - Full English UI with an instant RU/EN language toggle in Settings. English-first starter project and en-US default voice."
+  "version": "0.6.1",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.6.1/Lumina-Setup-0.6.1.exe",
+  "notes": "v0.6.1 - A character is no longer pasted into almost every frame (only where it is on screen). Opening another project during generation no longer loses or mixes up frames. New projects get distinct names."
 }
