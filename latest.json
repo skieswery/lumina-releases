@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.7.0/Lumina-Setup-0.7.0.exe",
-  "notes": "v0.7.0 - Channel profiles (each channel has its own videos, gallery, characters and settings; existing projects move to Channel 1 automatically), a Schedule tab, rebuilt packaging and AI thumbnails from the whole script, production board, monetization risk check, YouTube analytics and topic ideas. Fixes: voice Test for any voice, quick import of glued scripts. Make a backup before updating (Profile > Backup & Data)."
+  "version": "0.8.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.8.0/Lumina-Setup-0.8.0.exe",
+  "notes": "v0.8.0 - Voice-over now runs on Lumean: thousands of ElevenLabs voices with search and filters, free previews, My voices, a voice per channel, and a Voice the video button. The old built-in voice-over was removed: paste your Lumean API key in Settings and pick a voice."
 }
