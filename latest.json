@@ -1,5 +1,5 @@
 {
-  "version": "0.6.1",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.6.1/Lumina-Setup-0.6.1.exe",
-  "notes": "v0.6.1 - A character is no longer pasted into almost every frame (only where it is on screen). Opening another project during generation no longer loses or mixes up frames. New projects get distinct names."
+  "version": "0.7.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.7.0/Lumina-Setup-0.7.0.exe",
+  "notes": "v0.7.0 - Channel profiles (each channel has its own videos, gallery, characters and settings; existing projects move to Channel 1 automatically), a Schedule tab, rebuilt packaging and AI thumbnails from the whole script, production board, monetization risk check, YouTube analytics and topic ideas. Fixes: voice Test for any voice, quick import of glued scripts. Make a backup before updating (Profile > Backup & Data)."
 }
