@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.8.0/Lumina-Setup-0.8.0.exe",
-  "notes": "v0.8.0 - Voice-over now runs on Lumean: thousands of ElevenLabs voices with search and filters, free previews, My voices, a voice per channel, and a Voice the video button. The old built-in voice-over was removed: paste your Lumean API key in Settings and pick a voice."
+  "version": "0.9.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.9.0/Lumina-Setup-0.9.0.exe",
+  "notes": "v0.9.0 - A video no longer comes out twice as long as asked: the length and shot count are taken from your own words, and the length is measured from the narration text. The per-frame shake in exported video is gone. Lumi's answer is no longer lost when you close the chat. Channel memory keeps Lumi from repeating the same hooks, and horizontal videos no longer get vertical prompts."
 }
