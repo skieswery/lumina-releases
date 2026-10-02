@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.9.0/Lumina-Setup-0.9.0.exe",
-  "notes": "v0.9.0 - A video no longer comes out twice as long as asked: the length and shot count are taken from your own words, and the length is measured from the narration text. The per-frame shake in exported video is gone. Lumi's answer is no longer lost when you close the chat. Channel memory keeps Lumi from repeating the same hooks, and horizontal videos no longer get vertical prompts."
+  "version": "0.10.0",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.0/Lumina-Setup-0.10.0.exe",
+  "notes": "Lumi держит тему и стиль на длинных сценариях, проверки сценария кодом до оплаты картинок. Озвучка Lumean сама переходит на запасной адрес lumean.net, есть проверка соединения. Первая версия анимации кадра через RoyalTechno (экспериментально)."
 }
