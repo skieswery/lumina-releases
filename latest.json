@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.0/Lumina-Setup-0.10.0.exe",
-  "notes": "Lumi держит тему и стиль на длинных сценариях, проверки сценария кодом до оплаты картинок. Озвучка Lumean сама переходит на запасной адрес lumean.net, есть проверка соединения. Первая версия анимации кадра через RoyalTechno (экспериментально)."
+  "version": "0.10.1",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.1/Lumina-Setup-0.10.1.exe",
+  "notes": "Конвейер теперь ведёт Lumi, как на сайте: идеи, стиль, план, герои, запуск. 20 видов субтитров и переходы между кадрами. Озвучка без пауз. Анимация кадра попадает в готовое видео, RoyalTechno работает через VPN."
 }
