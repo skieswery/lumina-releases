@@ -1,5 +1,5 @@
 {
-  "version": "0.10.7",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.7/Lumina-Setup-0.10.7.exe",
-  "notes": "Анимация ключевых кадров, герои из библиотеки по имени, конвейер в 3 раза быстрее, громкая озвучка, кадры 3–5 секунд, расширение снова на связи и обновляется само (после установки один раз нажмите ⟳ у расширения в chrome://extensions)."
+  "version": "0.10.8",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.8/Lumina-Setup-0.10.8.exe",
+  "notes": "Ровная озвучка: одна громкость и один голос на весь ролик"
 }
