@@ -1,5 +1,5 @@
 {
-  "version": "0.10.13",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.13/Lumina-Setup-0.10.13.exe",
-  "notes": "Анимация параллельно и мягче, слитная озвучка, темы по формату, ролики до 30 минут"
+  "version": "0.10.14",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.14/Lumina-Setup-0.10.14.exe",
+  "notes": "Исправлена остановка конвейера при написании сценария"
 }
