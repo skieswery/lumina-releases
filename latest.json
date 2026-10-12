@@ -1,5 +1,5 @@
 {
-  "version": "0.10.11",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.11/Lumina-Setup-0.10.11.exe",
-  "notes": "Gemini через ваш VPN: разбор ролика и микрофон без «fetch failed»; понятная ошибка для удалённого ролика"
+  "version": "0.10.12",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.12/Lumina-Setup-0.10.12.exe",
+  "notes": "Кадры ролика для стиля и при VPN; вставка картинок Ctrl+V в паспорт стиля"
 }
