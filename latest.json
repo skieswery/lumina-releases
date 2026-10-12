@@ -1,5 +1,5 @@
 {
-  "version": "0.10.9",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.9/Lumina-Setup-0.10.9.exe",
-  "notes": "Обложки как у топовых каналов, анимация только нужных кадров, расширение 0.3.12"
+  "version": "0.10.10",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.10/Lumina-Setup-0.10.10.exe",
+  "notes": "Клон формата: ролики в формате тех, что залетели; микрофон в Lumi; обложка от конвейера; анимация во время рисования; обновления без HTTP 500"
 }
