@@ -1,5 +1,5 @@
 {
-  "version": "0.10.10",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.10/Lumina-Setup-0.10.10.exe",
-  "notes": "Клон формата: ролики в формате тех, что залетели; микрофон в Lumi; обложка от конвейера; анимация во время рисования; обновления без HTTP 500"
+  "version": "0.10.11",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.11/Lumina-Setup-0.10.11.exe",
+  "notes": "Gemini через ваш VPN: разбор ролика и микрофон без «fetch failed»; понятная ошибка для удалённого ролика"
 }
