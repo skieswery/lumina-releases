@@ -1,5 +1,5 @@
 {
-  "version": "0.10.20",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.20/Lumina-Setup-0.10.20.exe",
-  "notes": "Обложки, которые выделяются в выдаче: Lumi смотрит конкурентов и рисует 3 лучших для A/B-теста"
+  "version": "0.10.21",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.21/Lumina-Setup-0.10.21.exe",
+  "notes": "Надписи на обложках без переносов"
 }
