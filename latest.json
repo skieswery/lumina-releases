@@ -1,5 +1,5 @@
 {
-  "version": "0.10.15",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.15/Lumina-Setup-0.10.15.exe",
-  "notes": "Сборка в 2 раза быстрее, концовка без повторов, живее сценарий, точнее анимация"
+  "version": "0.10.16",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.16/Lumina-Setup-0.10.16.exe",
+  "notes": "Сценарий без провисаний в середине, клипы без пыли и тумана"
 }
