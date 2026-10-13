@@ -1,5 +1,5 @@
 {
-  "version": "0.10.19",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.19/Lumina-Setup-0.10.19.exe",
-  "notes": "Обложки уровня топовых каналов, описание без таймкодов"
+  "version": "0.10.20",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.20/Lumina-Setup-0.10.20.exe",
+  "notes": "Обложки, которые выделяются в выдаче: Lumi смотрит конкурентов и рисует 3 лучших для A/B-теста"
 }
