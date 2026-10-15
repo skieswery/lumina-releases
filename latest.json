@@ -1,5 +1,5 @@
 {
-  "version": "0.10.28",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.28/Lumina-Setup-0.10.28.exe",
-  "notes": "Один стиль во всём ролике; повторяющиеся кадры и белые засветы перерисовываются; сценарий без двойных концовок и повторов"
+  "version": "0.10.29",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.29/Lumina-Setup-0.10.29.exe",
+  "notes": "Субтитры в видео как в плеере; клипы каждого 4-го кадра по всему ролику; движение камеры у всех кадров; карточка кадра стала проще"
 }
