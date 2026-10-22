@@ -1,5 +1,5 @@
 {
-  "version": "0.10.30",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.30/Lumina-Setup-0.10.30.exe",
-  "notes": "Обложки с идеей и героем по портрету; клипы без перезапуска и плавные; субтитры в видео как в плеере; расширение 0.3.13 показывает связь сразу"
+  "version": "0.10.31",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.31/Lumina-Setup-0.10.31.exe",
+  "notes": "Озвучка: голос, удалённый в Lumean или от другого ключа, создаётся заново сам; файл озвучки качается через запасной адрес Lumean."
 }
