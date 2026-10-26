@@ -1,5 +1,5 @@
 {
-  "version": "0.10.34",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.34/Lumina-Setup-0.10.34.exe",
-  "notes": "Клипы кадров теперь делает Flow (в форме и стиле кадра, кадр берётся из проекта); звук клипа с кнопкой выключения; кнопка «Доделать ролик»; Lumi не теряет план; расширение 0.3.175."
+  "version": "0.10.35",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.35/Lumina-Setup-0.10.35.exe",
+  "notes": "Клипы делаются по 4 одновременно (в редакторе тоже), картинки по 6; расширение 0.3.176."
 }
