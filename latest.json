@@ -1,5 +1,5 @@
 {
-  "version": "0.10.31",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.31/Lumina-Setup-0.10.31.exe",
-  "notes": "Озвучка: голос, удалённый в Lumean или от другого ключа, создаётся заново сам; файл озвучки качается через запасной адрес Lumean."
+  "version": "0.10.32",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.32/Lumina-Setup-0.10.32.exe",
+  "notes": "Картинки и клипы рисуются в Google Flow через расширение Lumina Connect (обновится само до 0.3.172; на новом аккаунте один раз нажмите «Принимаю» во Flow). Выбор аккаунта Google для Flow. Ключ DeepSeek в настройках: сценарий и проверки пишет DeepSeek, без ключа — Gemini. Один стиль во всём ролике, одежда эпохи у героев. Оживление быстрее: до 4 клипов одновременно. Длина ролика ближе к заказанной, добавлены 2 минуты. Быстрый импорт: промты идут во Flow как есть."
 }
