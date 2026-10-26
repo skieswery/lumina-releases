@@ -1,5 +1,5 @@
 {
-  "version": "0.10.33",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.33/Lumina-Setup-0.10.33.exe",
-  "notes": "Картинки больше не обрезаются: кадр приходит ровно таким, как его нарисовал Flow. Если во Flow открыта боковая панель чата Gemini, расширение (0.3.173, обновится само) закрывает её и рисует в обычное поле."
+  "version": "0.10.34",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.34/Lumina-Setup-0.10.34.exe",
+  "notes": "Клипы кадров теперь делает Flow (в форме и стиле кадра, кадр берётся из проекта); звук клипа с кнопкой выключения; кнопка «Доделать ролик»; Lumi не теряет план; расширение 0.3.175."
 }
