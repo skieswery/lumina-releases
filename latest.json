@@ -1,5 +1,5 @@
 {
-  "version": "0.10.35",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.35/Lumina-Setup-0.10.35.exe",
-  "notes": "Клипы делаются по 4 одновременно (в редакторе тоже), картинки по 6; расширение 0.3.176."
+  "version": "0.10.36",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.36/Lumina-Setup-0.10.36.exe",
+  "notes": "Анимация больше не зависает: клип, который Flow не сделал за 15 минут, показывает причину и его можно оживить заново; клипы ждут своей очереди (4 одновременно), кадр пишет, чего ждёт."
 }
