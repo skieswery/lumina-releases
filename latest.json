@@ -1,5 +1,5 @@
 {
-  "version": "0.10.36",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.36/Lumina-Setup-0.10.36.exe",
-  "notes": "Анимация больше не зависает: клип, который Flow не сделал за 15 минут, показывает причину и его можно оживить заново; клипы ждут своей очереди (4 одновременно), кадр пишет, чего ждёт."
+  "version": "0.10.37",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.37/Lumina-Setup-0.10.37.exe",
+  "notes": "Исправление: остановленный и перезапущенный ролик больше не висит с надписью «Остановлю, как только закончится текущий шаг»."
 }
