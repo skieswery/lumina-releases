@@ -1,5 +1,13 @@
 {
   "version": "0.10.38",
   "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.38/Lumina-Setup-0.10.38.exe",
-  "notes": "Lumina 0.10.38: кредиты Lumina, чистые клипы Omni, повтор клипа если Flow не принял запуск, новые обложки, Lumi спрашивает формат и длину в чате, мгновенная остановка ролика, новый значок"
+  "notes": "Lumina 0.10.38: кредиты Lumina, чистые клипы Omni, повтор клипа если Flow не принял запуск, новые обложки, Lumi спрашивает формат и длину в чате, мгновенная остановка ролика, новый значок",
+  "store": {
+    "version": "0.10.39",
+    "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-Setup-0.10.39.exe"
+  },
+  "mac": {
+    "arm64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-arm64.dmg",
+    "x64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-x64.dmg"
+  }
 }
