@@ -1,7 +1,7 @@
 {
-  "version": "0.10.40",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.40/Lumina-Setup-0.10.40.exe",
-  "notes": "Lumina 0.10.40: клипы только через Flow, «Анимировать» оживляет только кадры с вашими промтами, плеер без тёмного экрана при клике на кадр, вечные тарифы Lite/Standard/PRO",
+  "version": "0.10.41",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.41/Lumina-Setup-0.10.41.exe",
+  "notes": "Lumina 0.10.41: обновления приходят надёжнее (проверка с ограничением по времени, через VPN и сайт, каждые полчаса), понятное сообщение при занятом порте, проверка удержания работает с ключом Lumi",
   "mac": {
     "arm64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-arm64.dmg",
     "x64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-x64.dmg"
