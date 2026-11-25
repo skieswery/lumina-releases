@@ -1,7 +1,7 @@
 {
-  "version": "0.10.41",
-  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.41/Lumina-Setup-0.10.41.exe",
-  "notes": "Lumina 0.10.41: обновления приходят надёжнее (проверка с ограничением по времени, через VPN и сайт, каждые полчаса), понятное сообщение при занятом порте, проверка удержания работает с ключом Lumi",
+  "version": "0.10.42",
+  "url": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.42/Lumina-Setup-0.10.42.exe",
+  "notes": "- Исправили сохранение больших MP4 и экспорт при переключении проекта.\n- После сбоя можно открыть сохранённые кадры в редакторе. «Доделать ролик» учитывает правки и смену голоса.\n- Переключение языка теперь обновляет текст и настройки озвучки вместе.\n- Lumina Connect 0.3.233 проверяет один результат за запрос для картинок и клипов. Конвейер учитывает уже принятые задания Flow при продолжении.\n- Разбор референса использует доступную речь и кадры по ходу ролика.\n- В Windows обновили иконку на панели задач и затемнили заголовок окна.",
   "mac": {
     "arm64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-arm64.dmg",
     "x64": "https://github.com/skieswery/lumina-releases/releases/download/v0.10.39/Lumina-0.10.39-mac-x64.dmg"
